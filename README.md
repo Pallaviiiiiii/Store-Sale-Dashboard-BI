@@ -9,10 +9,11 @@ The three key steps involved in this project include:
 
 ## Data Collection
 Data collection is the process of gathering and analyzing data from various sources to answer questions, evaluate outcomes, and forecast trends. It's an essential step in research, analysis, and decision-making in many fields
-2. Data Preparation/Cleaning
+
+## Data Preparation/Cleaning
 The Data Cleaning involved tasks like handling missing values, removing duplicates, correcting data types, and addressing inconsistencies in columns, ensuring a more accurate and usable dataset for analysis. This phase enabled me to improve the quality of data, and have better insights and decision-making from the Sample Super Store Dataset.
 
-3. Analysis and Visualization
+## Analysis and Visualization
 As I mentioned before the goal of this project is to carry out a sales performance analysis for the store. A sales performance analysis should answer the following questions:
 
 •	What are the total sales accrued by the states?
