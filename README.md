@@ -1,4 +1,4 @@
-# Store-Sale-Dashboard-BI
+# Super Store Sale Dashboard BI
 
 This visualization project aims to Analyse a fictitious superstore’s sales performance between 2016 and 2019 using Microsoft Power BI.
 
